@@ -20,3 +20,4 @@ def column_values(table: list[dict[str, str]], column: str) -> list[str]:
 def columnar(table: list[dict[str, str]]) -> dict[str, list[str]]:
     """Function uses the column_values function to reformat ALL data into a format similar to that of a table."""
     return {}
+
